@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+## Fábio Gonçalves - Frontend Developer 🤝
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Hi😀! My name is Fábio, and this is my portfolio.
+I'm a front-end developer. I'm constantly learning more about accessibility, UX/UI, and the technologies with which I usually work. You'll see that the main ones are Vue.js, and Tailwind.
+I'm also combining these with Ionic and going deeper into mobile's world📱.
 
-## Recommended IDE Setup
+Make yourself at home! 🏠
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## 📁 Acessing the project
+
+https://fabiogoncalves.vercel.app/
+
+## 📚 More informations
+
+Make contact ! Send me an email: contatofabiofg@hotmail.com

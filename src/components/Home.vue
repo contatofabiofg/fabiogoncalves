@@ -2,6 +2,7 @@
 
 <template>
   <div class="flex flex-col justify-center items-center">
+    <!-- Header -->
     <img
       src="../assets/fabiogoncalves.png"
       alt="Main logo"
@@ -22,37 +23,33 @@
     </div>
 
     <h2 class="font-bold">Projects and Technologies</h2>
-
+    <!-- Superchord -->
     <section>
       <div
         class="w-[90vw] p-4 m-3 mb-10 bg-white rounded-2xl drop-shadow flex flex-col items-center drop-shadow-2xl border border-slate-200"
       >
         <div
-          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300 cursor-pointer"
+          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300"
         >
           <h3 class="inline">Superchord</h3>
           <div class="flex items-center">
-            <span>
-              <img
-                src="../assets/vite.png"
-                alt="Vite Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/vue2.png"
-                alt="Vue logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/tailwind.png"
-                alt="Tailwind Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
+            <img
+              src="../assets/vite.png"
+              alt="Vite Logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/vue2.png"
+              alt="Vue logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/tailwind.png"
+              alt="Tailwind Logo"
+              class="w-5 mx-2 opacity-50"
+            />
           </div>
         </div>
 
@@ -102,38 +99,33 @@
         class="w-[90vw] p-4 m-3 mb-10 bg-white rounded-2xl drop-shadow flex flex-col items-center drop-shadow-2xl border border-slate-200"
       >
         <div
-          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300 cursor-pointer"
+          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300"
         >
           <h3 class="inline">Secret Friend</h3>
           <div class="flex items-center">
-            <span>
-              <img
-                src="../assets/vite.png"
-                alt="Vite logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/vue2.png"
-                alt="Vue logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/tailwind.png"
-                alt="Tailwind Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/firebase.png"
-                alt="Firebase Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
+            <img
+              src="../assets/vite.png"
+              alt="Vite logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/vue2.png"
+              alt="Vue logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/tailwind.png"
+              alt="Tailwind Logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/firebase.png"
+              alt="Firebase Logo"
+              class="w-5 mx-2 opacity-50"
+            />
           </div>
         </div>
 
@@ -184,39 +176,33 @@
         class="w-[90vw] p-4 m-3 mb-10 bg-white rounded-2xl drop-shadow flex flex-col items-center drop-shadow-2xl border border-slate-200"
       >
         <div
-          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300 cursor-pointer"
+          class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300"
         >
           <h3 class="inline whitespace-nowrap">Happy Birthday</h3>
           <div class="flex items-center">
-            <span>
-              <img
-                src="../assets/ionic.png"
-                alt="Ionic Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
+            <img
+              src="../assets/ionic.png"
+              alt="Ionic Logo"
+              class="w-5 mx-2 opacity-50"
+            />
 
-            <span>
-              <img
-                src="../assets/vue2.png"
-                alt="Vue Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/tailwind.png"
-                alt="TailWind Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
-            <span>
-              <img
-                src="../assets/firebase.png"
-                alt="Firebase Logo"
-                class="w-5 mx-2 opacity-50"
-              />
-            </span>
+            <img
+              src="../assets/vue2.png"
+              alt="Vue Logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/tailwind.png"
+              alt="TailWind Logo"
+              class="w-5 mx-2 opacity-50"
+            />
+
+            <img
+              src="../assets/firebase.png"
+              alt="Firebase Logo"
+              class="w-5 mx-2 opacity-50"
+            />
           </div>
         </div>
 
