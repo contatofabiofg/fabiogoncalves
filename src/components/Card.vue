@@ -6,7 +6,7 @@ defineProps({
 
 <template>
   <div
-    class="duration-100 opacity-75 hover:opacity-100 hover:scale-[102%] w-[90vw] lg:w-[30vw] p-4 m-3 mb-10 bg-white rounded flex flex-col items-center drop-shadow-md border border-slate-200"
+    class="duration-100 lg:opacity-75 hover:opacity-100 lg:hover:scale-[102%] w-[90vw] lg:w-[30vw] p-4 m-3 mb-10 bg-white rounded flex flex-col items-center drop-shadow-md border border-slate-200"
   >
     <div
       class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300"
