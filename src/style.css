@@ -10,12 +10,16 @@
 }
 
 body {
-  //background-color: rgb(230, 230, 230);
-  @apply
-  bg-gradient-to-tr
-  from-slate-500
-  to-slate-300
-  min-h-screen
+background-image: url('/src/assets/dark.jpg') ;
+
+}
+
+.gif {
+background-image: url('/src/assets/giphy.gif') ;
+background-position: center;
+background-size: cover;
+
+
 }
 
 p {

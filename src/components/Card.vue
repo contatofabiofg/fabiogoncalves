@@ -6,7 +6,7 @@ defineProps({
 
 <template>
   <div
-    class="w-[90vw] lg:w-[30vw] p-4 m-3 mb-10 bg-white rounded flex flex-col items-center drop-shadow-md border border-slate-200"
+    class="duration-100 opacity-75 hover:opacity-100 hover:scale-[102%] w-[90vw] lg:w-[30vw] p-4 m-3 mb-10 bg-white rounded flex flex-col items-center drop-shadow-md border border-slate-200"
   >
     <div
       class="flex justify-center items-center w-full text-center pb-2 mb-3 text-2xl font-bold border-b border-slate-300"
@@ -61,34 +61,34 @@ defineProps({
     </div>
 
     <img
-      v-if="card.log == 'superchord'"
+      v-if="card.logo == 'superchord'"
       src="../assets/superchord.png"
       alt="Logo"
-      class="w-[80%] mb-3"
+      class="h-[50px] mb-3"
     />
     <img
-      v-if="card.log == 'secretfriend'"
+      v-if="card.logo == 'secretfriend'"
       src="../assets/secretfriend.png"
       alt="Logo"
-      class="w-[80%] mb-3"
+      class="h-[50px] mb-3"
     />
     <img
-      v-if="card.log == 'happybirthday'"
+      v-if="card.logo == 'happybirthday'"
       src="../assets/happybirthday.png"
       alt="Logo"
-      class="w-[80%] mb-3"
+      class="h-[50px] mb-3"
     />
     <img
-      v-if="card.log == 'pokedex'"
+      v-if="card.logo == 'pokedex'"
       src="../assets/pokedex.png"
       alt="Logo"
-      class="w-[80%] mb-3"
+      class="h-[50px] mb-3"
     />
     <img
-      v-if="card.log == 'ecommerce'"
+      v-if="card.logo == 'ecommerce'"
       src="../assets/ecommerce.png"
       alt="Logo"
-      class="w-[80%] mb-3"
+      class="h-[50px] mb-3"
     />
     <p>
       {{ card.description }}
