@@ -13,7 +13,7 @@ export const cards = [
             expanding the control bar, it is possible to add chords that are out
             the grade. With limitations, no auth required.
           
-         Developed with Vite, Vue.js and TailWind.</p>
+         Developed with Vite, Vue.js and TailWind.
           Platform: web.`,
     link: 'https://superchord.vercel.app/',
   },
