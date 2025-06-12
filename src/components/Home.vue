@@ -82,6 +82,13 @@
         um banco de dados do firebase. A gestão é feita em um painal
         administrativo à parte. Estilizado com Styled Components.
       </h3>
+      <a
+        class="darkbutton"
+        data-aos="fade-right"
+        href="https://play.google.com/store/apps/details?id=com.fabiofg2023.myapp&hl=pt_BR"
+        target="_blank"
+        >INSTALAR (PlayStore)</a
+      >
       <img
         data-aos="fade-right"
         src="../assets/ibvapp.png"
@@ -132,7 +139,7 @@
         class="w-[100vw] lg:w-[80vw]"
       />
 
-      <h1 data-aos="fade-right" class="mt-[50px]">CARD YOURSELF</h1>
+      <h1 data-aos="fade-right" class="mt-[50px]">LUCKY MONSTERS</h1>
       <div class="iconArea" data-aos="fade-right">
         <img src="../assets/vite.png" alt="" class="icon" />
         <img src="../assets/vue2.png" alt="" class="icon" />
@@ -147,7 +154,7 @@
       <a
         class="darkbutton"
         data-aos="fade-right"
-        href="https://card-yourself.vercel.app"
+        href="https://lucky-monsters.vercel.app"
         target="_blank"
         >ACESSAR</a
       >
